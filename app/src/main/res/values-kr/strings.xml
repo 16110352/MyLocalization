@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">내 현지화</string>
+    <string name="app_tittle">기재</string>
+
+    <string name="form_text">이 양식을 작성하여 사용자로 등록하십시오.</string>
+    <string name="form_name">성명</string>
+    <string name="form_email">이메일 주소</string>
+    <string name="form_phone">전화 번호</string>
+    <string name="form_pwd">암호</string>
+    <string name="form_check">나는 약관을 읽고 동의한다.</string>
+
+    <string name="btn_go">제출</string>
+    <string name="btn_lang">언어 설정</string>
+</resources>
